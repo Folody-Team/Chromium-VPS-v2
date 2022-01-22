@@ -1,0 +1,3 @@
+language="python"
+audio=true
+run="python main.py"
